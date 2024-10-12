@@ -1,0 +1,16 @@
+2024-07-07 12:32:57,676 Process started
+2024-07-07 12:32:57,676 Extracted the data successfully
+2024-07-07 12:32:57,676 Finally data bifurcation is success
+2024-07-07 12:32:57,678 Complete the process and created the file
+2024-07-07 12:32:57,678 Process Completed
+2024-07-07 12:34:09,616 Process started
+2024-07-07 12:34:09,616 Extracted the data successfully
+2024-07-07 12:34:09,616 Finally data bifurcation is success
+2024-07-07 12:34:09,617 Complete the process and created the file
+2024-07-07 12:34:09,617 Process Completed
+2024-07-07 12:35:28,084 Process started
+2024-07-07 12:35:28,084 Extracted the data successfully
+2024-07-07 12:35:28,084 {'India': ['10.198.186.177', '10.198.186.178', '10.198.186.177', '10.198.186.171'], 'Usa': ['10.198.186.99', '10.198.186.121'], 'Uk': ['10.198.186.23', '10.198.186.27'], 'Russia': ['10.198.186.43', '10.198.186.90'], 'Japan': ['10.198.186.32', '10.198.186.36']}
+2024-07-07 12:35:28,085 Finally data bifurcation is success
+2024-07-07 12:35:28,085 Complete the process and created the file
+2024-07-07 12:35:28,085 Process Completed
